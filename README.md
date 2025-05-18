@@ -1,2 +1,3 @@
 # Machine-Learning-Project
 Uyku verilerinden uyku bozukluğu tahmini yapan makine öğrenmesi projesi.
+Veriseti Kaggle'dan alınmıştır. Uyku kalitesi diye aratarak kolayca bulabilirsiniz. Makine öğrenmesi dersi final ödevi için yapılan bir projedir. Projede çeşitli modeller kullanılmış ve birbirleriyle karşılaştırılmaları yapılmıştır. Açıklamalı yapay zeka(Shap ve Lime) kullanılarak model ile ilgili bilgi edinilmiştir. Doğruluk %89 çıkmıştır. Aradığım uygun veriseti tam olarak bu olmasada konuyu anladığımı belli ettiğimi düşündüğüm bir proje oldu. Fikir vermesi adına yararlı olduğunu düşünüyorum. 
